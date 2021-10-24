@@ -1,0 +1,16 @@
+{
+    "name": "ncut/lara_auto",
+    "description": "autoload classes",
+    "autoload": {
+        "psr-4": {
+            "Ncut\\LaraAuto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlanKai",
+            "email": "s3a832094@student.ncut.edu.tw"
+        }
+    ],
+    "require": {}
+}
